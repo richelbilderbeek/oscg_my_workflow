@@ -149,10 +149,11 @@ Conclusion and discussion
 Questions
 ========================================================
 
-?
+# ?
 
- * [http://richelbilderbeek.nl/oscg_my_workflow.ogv](http://richelbilderbeek.nl/oscg_my_workflow.ogv)
- * [https://youtu.be/esyxjv6cqkY ](https://youtu.be/esyxjv6cqkY )
+ * This presentation: [https://github.com/richelbilderbeek/oscg_my_workflow](https://github.com/richelbilderbeek/oscg_my_workflow) ![](CC-BY-NC-SA.png)
+ * Video as download: [http://richelbilderbeek.nl/oscg_my_workflow.ogv](http://richelbilderbeek.nl/oscg_my_workflow.ogv) ![](CC-BY-NC-SA.png)
+ * Video on YouTube: [https://youtu.be/esyxjv6cqkY ](https://youtu.be/esyxjv6cqkY ) ![](CC-BY-NC-SA.png)
  
 Overview code
 ========================================================
